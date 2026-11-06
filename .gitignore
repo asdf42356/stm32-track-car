@@ -1,0 +1,27 @@
+# Keil MDK 构建产物
+Objects/
+Listings/
+DebugConfig/
+
+# Keil 用户与界面配置（与具体机器/用户绑定）
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+
+# 编译中间文件与输出
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.html
+
+# 通用
+.DS_Store
+Thumbs.db
